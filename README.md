@@ -1,3 +1,6 @@
+![dribbble-tn-scapel](https://user-images.githubusercontent.com/36285522/94328961-f0dcf580-ff84-11ea-856a-5716fdfa988d.png)
+
+
 # Dribbble Thumbnail Extractor - REST API
 
 An API that extracts thumbnail URLs of shots made by a user on [Dribbble](https://dribbble.com/winnllam). This enables the user to display their creative pieces in different locations while only posting on one.
@@ -77,7 +80,7 @@ Your endpoint is good to go!
 
 ## Use Cases
 
-TBD
+* Display them on your [website](https://winnllam.github.io/media) 
 
 ## Sources
 * https://stackabuse.com/deploying-a-flask-application-to-heroku/
