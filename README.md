@@ -18,6 +18,8 @@ An API that extracts thumbnail URLs of shots made by a user on [Dribbble](https:
 
 Currently accessible at: https://dribbble-tn.herokuapp.com/
 
+Checkout the documentation in [Postman](https://explore.postman.com/templates/13168/dribbble-thumbnail-api).
+
 ### [GET] get_img_urls
 
 Gets the thumbnail image link for a user on Dribbble. Example call [here](https://dribbble-tn.herokuapp.com/get_img_urls/?name=winnllam).
@@ -42,6 +44,7 @@ Example:
 * Python (BeautifulSoup4)
 * Flask
 * Heroku
+* Postman
 
 ### Installation
 
@@ -61,6 +64,10 @@ Run the code on [localhost](http://127.0.0.1:5000/) (port 5000):
 ```
 python app.py
 ```
+
+#### Collection
+
+You can download the collection in Postman [here](https://explore.postman.com/templates/13168/dribbble-thumbnail-api). Click **Run in Postman** to start it up.
 
 ### Deployment
 
